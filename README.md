@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://resimlink.com/a5H-plWF07" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/a5H-plWF07.gif" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a> align="center" style="width: 100%" />
+<img src="https://r.resimlink.com/a5H-plWF07.gif" align="center" style="width: 100%" />
 </div>  
   
 
