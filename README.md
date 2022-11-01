@@ -25,10 +25,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/safasan" target="_blank">
+<a href="https://linkedin.com/in/safasan" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/safasan_" target="_blank">
+<a href="https://instagram.com/safasan_" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
